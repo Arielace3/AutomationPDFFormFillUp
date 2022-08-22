@@ -1,14 +1,15 @@
 # AutomationPDFFormFillUp
 
-This is a replication of an automation project I completed for a Global Investment Bank. <sub> Note: Due to company policy, I cannot provide the original program and PDF template. </sub>
+This is a replication of an automation project I completed for a Global Investment Bank.  
+<sub> Note: Due to company policy, I cannot provide the original program and PDF template. </sub>
 
 Task: Given a excel spradsheet of any amount of data rows, automate the fill up of a template PDF form by a click of a button.
 
-Features: 
-•	Portable
-•	Accessible within a shared network drive
-•	Scalable (number of data rows)
-•	Saves forms with customisable names and in a user-specified directory
+Features:   
+•	Portable  
+•	Accessible within a shared network drive  
+•	Scalable (number of data rows)  
+•	Saves forms with customisable names and in a user-specified directory  
 
 **Project Takeaways**
 •	Positive learningattitude/'Never say never' attitude: Prior to this project, I knew nothing about VBA Excel. Nevertheless, I decided to learn it from scratch. This process of self learning and trial and error proved to be challenging given the tight deadline. Fortunately, I successfully implemented project within a working time of week, ahead of deadline.
