@@ -23,3 +23,7 @@ Features:
 2. Select the location of the exported PDF Template file   
 3. Select the directory location of the 'SavePDFFolder' folder where completed PDFs will be saved in  
 4. Click the blue 'Fill Form' button to observe the filling up of the form.  
+  
+**View how the program works here*  
+https://user-images.githubusercontent.com/58111790/186071392-68c19560-12dd-4369-b482-932337290ef7.mp4
+
