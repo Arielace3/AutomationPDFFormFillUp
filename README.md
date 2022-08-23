@@ -1,8 +1,8 @@
 # AutomationPDFFormFillUp
 
-This is a replication of an automation project I completed for a Global Investment Bank.  
+This is a replication* of an automation project I completed for a Global Investment Bank.  
   
-*Note: Due to company policy, I cannot provide the original program and PDF template.*  
+**Due to company policy, I cannot provide the original program and PDF template.*  
   
 
 Task: Given a excel spreadsheet of any amount of data rows, automate the fill up of a template PDF form by a click of a button.
