@@ -2,7 +2,7 @@
 
 This is a replication* of an automation project I completed for a Global Investment Bank.  
   
-**Due to company policy, I cannot provide the original program and PDF template.*  
+
   
 
 Task: Given a excel spreadsheet of any amount of data rows, automate the fill up of a template PDF form by a click of a button.
@@ -27,5 +27,8 @@ Features:
 4. Click the blue 'Fill Form' button to observe the filling up of the form.  
   
 **View how the program works here:**  
-https://user-images.githubusercontent.com/58111790/186071392-68c19560-12dd-4369-b482-932337290ef7.mp4
+https://user-images.githubusercontent.com/58111790/186071392-68c19560-12dd-4369-b482-932337290ef7.mp4  
+  
+    
+**Due to company policy, I cannot provide the original program and PDF template.*  
 
