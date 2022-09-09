@@ -1,6 +1,6 @@
 # AutomationPDFFormFillUp
 
-This is a replication* of an automation project I completed for a Global Investment Bank.  
+This is a replication* of an automation project completed for a Global Investment Bank.  
   
 
   
