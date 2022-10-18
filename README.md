@@ -24,7 +24,7 @@ With each project meeting, I was routinely asked to make additions to the progra
 
   
 **Instructions to use program:**  
-1. Download the .zip file and export it anywhere on your computer  
+1. Download the .zip file and export it on your computer  
 2. Select the location of the exported PDF Template file   
 3. Select the directory location of the 'SavePDFFolder' folder where completed PDFs will be saved in  
 4. Click the blue 'Fill Form' button to observe the filling up of the form.  
