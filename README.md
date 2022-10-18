@@ -14,7 +14,7 @@ Features:
 •	Saves forms with customisable names and in a user-specified directory  
 
 **Project Takeaways:**  
-•	Positive learningattitude/'Never say never' attitude:  
+•	Positive learning attitude/'Never say never' attitude:  
 Prior to this project, I knew nothing about VBA Excel. Nevertheless, I decided to learn it from scratch. This process of self learning and trial and error proved to be challenging given the tight deadline. Fortunately, I successfully implemented project within a working time of week, ahead of deadline.  
 •	Interdisciplinary Communication:  
 At the beginning, I had to understand my client's requirements of the project, generate technical solutions and communicate them in a way that they could understand. (As they were from a non-technical background) This process continued in the subsequent project meetings.  
